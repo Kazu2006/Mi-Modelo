@@ -29,7 +29,7 @@ with open(LABELS_PATH, "r", encoding="utf-8") as f:
 
 # === 4) Colores por clase ===
 colors = {
-    "FABRICIO":  (0, 255, 0),
+    "FABRICIO":  (0, 251, 0),
     "TOMATODO":  (255, 0, 255),
     "LAPICERO":  (0, 255, 255),
     "CELULAR":   (255, 0, 0),
